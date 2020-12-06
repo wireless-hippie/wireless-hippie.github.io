@@ -5,9 +5,9 @@ description: "an online diary for a wireless hippie"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: https://wireless-hippie.github.io
-google_analytics: 'UA-46278016-1'
+google_analytics: 'G-ZFQES0QL2Y'
 disqus: 'https-wireless-hippie-github-io'
-mailchimp-list:
+mailchimp-list: https://github.us7.list-manage.com/subscribe/post?u=67bc9a6384a973beca87db5fe&amp;id=15ec9c40ce
 include: ["_pages"]
 permalink: /:title/
 
@@ -16,7 +16,7 @@ authors:
   Mariana:
     name: Mariana Meireles
     display_name: Mariana Meireles
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 2de6c00a8f204bdf0b66f07697a334c1
     email: mariana@psychonaugirl.space
     web: https://psychonautgirl.space/about-me.html
     twitter: https://twitter.com/mari_meir
