@@ -1,7 +1,7 @@
 # Site
-name: "Wireless Hippie"
-title: "Wireless Hippie"
-description: "An online diary for a wireless hippie"
+name: "wireless hippie"
+title: "wireless hippie"
+description: "an online diary for a wireless hippie"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /index.html

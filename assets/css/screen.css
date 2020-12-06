@@ -300,12 +300,19 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand img {
-    max-height: 30px;
+    max-height: 60px;
+    margin-top: -20px;
+    margin-bottom: -20px;
     margin-right: 5px;
 }
 
 .mainheading h1.sitetitle {
-    font-family: Righteous;
+    font-family: 'Amatic SC', cursive;
+    font-size: 70px !important;
+}
+
+.lead {
+    font-family: 'Coming soon', cursive;
 }
 
 .mainheading h1.posttitle {
@@ -315,12 +322,12 @@ span.post-read-more a:hover {
 
 .footer {
     border-top: 1px solid rgba(0, 0, 0, .05) !important;
-    padding-top: 15px;
+    padding-top: 12px;
     padding-bottom: 12px;
     font-size: 0.8rem;
     color: rgba(0, 0, 0, .44);
-    margin-top: 50px;
-    margin-bottom: 62px;
+    margin-top: 30px;
+    margin-bottom: 22px;
     position: relative;
     background: #fff;
 }
@@ -772,7 +779,7 @@ iframe {
         margin-bottom: -50px;
         margin-top: 3rem;
         padding: 0;
-        height: 350px;
+        height: 150px;
         border-radius: 0;
         background-image: url(../images/jumbotron.jpg);
         background-size: cover;
