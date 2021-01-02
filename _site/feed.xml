@@ -5,52 +5,144 @@
     <description>an online diary for a wireless hippie</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Dec 2020 22:12:02 +0200</pubDate>
-    <lastBuildDate>Sun, 06 Dec 2020 22:12:02 +0200</lastBuildDate>
+    <pubDate>Sat, 02 Jan 2021 17:15:48 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Jan 2021 17:15:48 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Inception Movie</title>
-        <description>&lt;p&gt;Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.&lt;/p&gt;
+        <title>Cyprus aerial view</title>
+        <description>&lt;p&gt;For my first stop in this end of the world trip I chose Cyprus because of low incidence of corona + was supposed to meet with a friend there, but unfortunately didn’t work. Fortunately I still had another friend with me who accompanied my throughout Cyprus.&lt;/p&gt;
 
-&lt;h4 id=&quot;how-to-use&quot;&gt;How to use?&lt;/h4&gt;
+&lt;p&gt;Cyprus is a beautiful island in the mediterranean. In recent history it was occupied by Greeks, then by the Ottoman empire then by the British. It has a mix of all of these cultures and it’ll be difficult to find someone that doesn’t speak English in the Greek side. “Greek side” because the island is divided in half between the Greek and the Turkish with an UN buffer zone in the middle to avoid conflicts between both parts. But don’t worry, no imminent war starting, as long as the rest population is as chill about each other as the Cyprus subreddit.&lt;/p&gt;
 
-&lt;p&gt;It’s actually really simple! Add the rating in your YAML front matter. It also supports halfs:&lt;/p&gt;
+&lt;p&gt;Cyprus is the first desert-like place I’ve been to. I liked it at first, the desert landscapes awaken some interesting desolating feelings in my birdy soul, but I have to admit that after 2 weeks living in the desert, I was craving for some greenies.&lt;/p&gt;
 
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;---
-layout: post
-title:  &quot;Inception Movie&quot;
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: &quot;My review of Inception movie. Actors, directing and more.&quot;
-rating: 4.5
----
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/cyprus/desert.JPEG&quot; alt=&quot;My Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This was my first nest, near Larnaka. Had some great sunset views.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/cyprus/first-nest.JPG&quot; alt=&quot;My Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;During my stay in there I visit some nice places in the east. There are some beautiful beaches in the east coast with white sand and transparent mesmerizing blue waters. I recommend it strongly for beach going.&lt;/p&gt;
+
+&lt;p&gt;Also, if you’re around check the Capo Greco park. You can make some sight seeing in there + diving if it’s your thing. I unfortunately am still on a mission of improving my swimming skills. Since I almost died in the Aare River in Bern - Switzerland, I decided to be more respectful to water and more careful around it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/cyprus/capo.JPEG&quot; alt=&quot;My Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cyprus has a local pine tree, the Mastika, which produces a resine wich they use to make various products. It tastes like eating a tree somewhat, interesting flavor, recommend it.
+They also have amazing flat bread with honey.&lt;/p&gt;
+
+&lt;p&gt;Speaking of food, I also went to this amazing restaurant in Larnaka, &lt;a href=&quot;https://www.google.com/maps/place/Maqam+Al-Sultan+Restaurant/@34.9110143,33.6288479,15z/data=!4m8!1m2!2m1!1svegetarian+food+larnaka!3m4!1s0x14e082a2d08f3a53:0x8e77c5a616050148!8m2!3d34.9110143!4d33.6376026&quot;&gt;
+Maqam Al-Sultan Restaurant&lt;/a&gt; with great veg options, they served a delicious mesa!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/cyprus/mesa.JPEG&quot; alt=&quot;My Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Larnaka didn’t offer great options for digital nomads in the middle of a pandemic. Meaning that most of the establishments weren’t prepared to meet rules like 1,5 meters distancing, etc. but I was lucky enough to find an amazing &lt;a href=&quot;https://www.google.com/maps/place/Caff%C3%A8+Nero/@34.9110143,33.6288479,15z/data=!4m5!3m4!1s0x14e082dd1e710a25:0x665fdf3800d3f7ad!8m2!3d34.8896214!4d33.6371531&quot;&gt;Cafe Nero&lt;/a&gt; full of cats to make me company.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/cyprus/cafe-nero.JPG&quot; alt=&quot;My Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I spent one afternoon in Nikosia. It’s a surprisingly poor city. You turn into a street and suddenly find yourself in front of the UN buffer zone that looks like a portal to a Mad Max world. I bet Nikosia is full of life and interesting experiences, but for me it was just a shock of poverty in the middle of the EU. It was the first time I saw kids begging for money in the streets in Europe.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/cyprus/nikosia.JPEG&quot; alt=&quot;My Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Spent two days in an airbnb without wi-fi, that was challenging but also beautiful and contemplative experience. The guy who rented it had a huge collection of CDs and an old school sound system, which gave me a welcomed change of vibes from my usual hippie songs. I even wrote a bad poem in there.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/cyprus/sad-bnb.JPG&quot; alt=&quot;My Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;2 dias em um airbnb triste&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Eu olho pros meus vizinhos&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;E eu os vejo atraves da varanda vazia e do vidro limpo&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Da casa sem cortinas e luz brancas&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Paredes nuas e corpos curvados&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cozinhando&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Sentados na mesa comendo&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Conversando&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Cozinhando&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Sentados na mesa comendo&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Conversando&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;A varanda esteril&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Sem luz sem plantas&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;‘E um retrato feio, um portal pro passado de como eu me sentia a respeito de casas, rotinas e varandas&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;After two weeks in the east I moved to the extreme opposite of the island. The west, in contrast with the east, is much more green and lushy. This was my second nest in the island.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/cyprus/second_nest.JPG&quot; alt=&quot;My Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And it came with a free beauty, stray(?), fluffyness that I named Biscoita.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/cyprus/biscoita.JPEG&quot; alt=&quot;My Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Found a beautiful restaurant nearby that was closed but left their wi-fi on, so I worked from there for a couple of days.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/cyprus/sandwich-place.JPEG&quot; alt=&quot;My Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Visited some beautiful national parks like the &lt;a href=&quot;https://www.google.com/maps/place/Akamas+Peninsula+National+Park/@35.0429273,32.2293377,12z/data=!4m5!3m4!1s0x14e79fa9b5e044f7:0x83926ef7b0a13382!8m2!3d35.0429273!4d32.2993755&quot;&gt;Akamas Peninsula&lt;/a&gt; where I got some amazing views.&lt;/p&gt;
+
+&lt;p&gt;Here I did the usual and followed the trail by foot to the Blue Lagoon, it was super worth it. When I did it there were many illegal hunters along the way. If you find them around there the number for the Cypriot police is 199 or 112.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/cyprus/blue-lagoon.JPEG&quot; alt=&quot;My Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Close to this area I also went to the Aphrodite’s bath which is not very cool, I felt like walking into a tourist trap. However if you go up the mountain nearby, the Aphrodite’s Path, you’ll find some magical places :) It was one of my favorite random explorations.&lt;/p&gt;
+
+&lt;p&gt;I also visited the Paphos forest. There I just jumped out of the car in a sight seeing spot and went up a mountain nearby.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/cyprus/paphos-forest.jpeg&quot; alt=&quot;My Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the west I explored some very cool Roman ruins, with the most well preserved mosaics I ever saw.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/cyprus/paphos-ruins.jpeg&quot; alt=&quot;My Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cyprus has a beautiful ocean, some breath taking landscapes that go from desert, to pine tree forests, to something in between and is full of stray cats. Can’t say much about its people since my interactions with them in real life had a strict “useful end” that wasn’t related to befriending or anything like that but what I could perceive is, amazingly polite people that were ready to offer you a helping hand if you’re a clueless tourist. In my online interaction with locals most Cypriots shown to be extremely conservative folks, close minded for subjects like sex, nudity, politics and drugs.&lt;/p&gt;
+
+&lt;p&gt;Well, this wasn’t what I expected! But it’s a first. I’ll try to be more specific about adventures in the next few posts. Currently I’m in my third week in Tenerife, which means, it’s been a while since I started this trip and didn’t write about it.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 11 Jan 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/customer-service/</link>
-        <guid isPermaLink="true">http://localhost:4000/customer-service/</guid>
+        <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/cyprus-aerial-view/</link>
+        <guid isPermaLink="true">http://localhost:4000/cyprus-aerial-view/</guid>
         
-        <category>red</category>
+        <category>Cyprus</category>
         
-        <category>yellow</category>
+        <category>Mediterranean</category>
+        
+        <category>Greek</category>
+        
+        <category>Beach</category>
+        
+        <category>Mountain</category>
+        
+        <category>Forest</category>
         
         
-        <category>Jekyll</category>
+        <category>Travelling</category>
         
-        <category>tutorial</category>
+      </item>
+    
+      <item>
+        <title>A note on corona</title>
+        <description>&lt;p&gt;My particular reason for travelling is trying to preserve my mental health.&lt;/p&gt;
+
+&lt;p&gt;I lived all my life in a very tropical part of Brazil and I just recently moved in to Berlin in 2019 meaning I had my first winter that year. It was tough.&lt;/p&gt;
+
+&lt;p&gt;2020 was very challenging for all of us and I had to fight many of my personal demons in this year. The prospect of spending a winter alone in the middle of a pandemic in Berlin was, honestly, terrifying to me so I decided to take the risk to travel.&lt;/p&gt;
+
+&lt;p&gt;I’m doing it in the safest way possible. I respect all the enforced corona rules of the place I’m in + the rules I make myself because some places are just not strict enough according to my boundaries. You’ll notice I never talk about events, night life, parties or even other people in my posts and it’s not because I’m hiding it from anyone, it’s because I’m not partaking on any of this. I’m very in to all of these things but I’m giving my best to be safe and make others safe.&lt;/p&gt;
+
+&lt;p&gt;It may be not enough, travelling by plane is dangerous as fuck, I can see people around me openly disrespecting the rules, I’m afraid I’ll get sick and fuck myself or fuck other people because I took their place in a hospital, I’m still very lonely and the world looks very scary. All of this is juggling in my head, but also the fact that I was spiralling down into deep depression for staying in Berlin.&lt;/p&gt;
+
+&lt;p&gt;Not sure if it was the right or better choice. I’m just trying to make the best of every day.&lt;/p&gt;
+
+&lt;p&gt;Hope you enjoy this little diary.&lt;/p&gt;
+
+&lt;p&gt;I wish you to stay healthy, strong and happy in this new year.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/a-note-on-corona/</link>
+        <guid isPermaLink="true">http://localhost:4000/a-note-on-corona/</guid>
+        
         
       </item>
     
