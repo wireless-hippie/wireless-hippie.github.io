@@ -14,9 +14,11 @@ comments: true
 
 
 {:refdef: style="text-align: center;"}
-This is both a personal e-diary for my trips as a digital nomad and hopefully will be useful from time to time to other wireless hippies passing by the same places I passed through.
+This is a personal e-diary for my trips as a digital nomad.
 
-If you want to talk, hit me up!
+Maybe it can be useful to some other wireless hippies passing by the same places I did.
+
+If you want to talk, hit me up! I'd love to talk with like minded people. I'm based in Berlin.
 
 I have an [Instagram](instagram.com/wirelesshippie/) but I'm also available by email: [mariana@psychonautgirl.space](mariana@psychonautgirl.space).
 {: refdef}
