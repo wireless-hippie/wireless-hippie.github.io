@@ -7,7 +7,7 @@ tags: Cyprus Mediterranean Greek Beach Mountain Forest
 image: assets/images/cyprus/cyprus.JPEG
 description: "An overview over my month in Cyprus"
 featured: true
-hidden: true
+hidden: false
 ---
 
 For my first stop in this end of the world trip I chose Cyprus because of low incidence of corona + was supposed to meet with a friend there, but unfortunately didn't work. Fortunately I still had another friend with me who accompanied my throughout Cyprus.
