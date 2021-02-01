@@ -22,7 +22,7 @@ This was my first nest, near Larnaka. Had some great sunset views.
 
 ![My Image](/assets/images/cyprus/first-nest.JPG)
 
-During my stay in there I visit some nice places in the east. There are some beautiful beaches in the east coast with white sand and transparent mesmerizing blue waters. I recommend it strongly for beach going.
+During my stay in there I visited some nice places in the east. There are some beautiful beaches in the east coast with white sand and transparent mesmerizing blue waters. I recommend it strongly if you're interested in beaches.
 
 Also, if you're around check the Capo Greco park. You can make some sight seeing in there + diving if it's your thing. I unfortunately am still on a mission of improving my swimming skills. Since I almost died in the Aare River in Bern - Switzerland, I decided to be more respectful to water and more careful around it.
 
@@ -36,7 +36,7 @@ Maqam Al-Sultan Restaurant](https://www.google.com/maps/place/Maqam+Al-Sultan+Re
 
 ![My Image](/assets/images/cyprus/mesa.JPEG)
 
-Larnaka didn't offer great options for digital nomads in the middle of a pandemic. Meaning that most of the establishments weren't prepared to meet rules like 1,5 meters distancing, etc. but I was lucky enough to find an amazing [Cafe Nero](https://www.google.com/maps/place/Caff%C3%A8+Nero/@34.9110143,33.6288479,15z/data=!4m5!3m4!1s0x14e082dd1e710a25:0x665fdf3800d3f7ad!8m2!3d34.8896214!4d33.6371531) full of cats to make me company.
+Cyprus didn't offer great options for digital nomads in the middle of a pandemic. Meaning that most of the establishments weren't prepared to meet rules like 1,5 meters distancing, etc. but I was lucky enough to find an amazing [Cafe Nero](https://www.google.com/maps/place/Caff%C3%A8+Nero/@34.9110143,33.6288479,15z/data=!4m5!3m4!1s0x14e082dd1e710a25:0x665fdf3800d3f7ad!8m2!3d34.8896214!4d33.6371531) full of cats to make me company. This one is in Larnaka and it's the best I could find, but I found out that most Cafe Neros are pretty great for a work environment.
 
 ![My Image](/assets/images/cyprus/cafe-nero.JPG)
 
