@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A personal digression on sunsets"
+title: "A personal digression on sunsets: an illustrated book with Tenerifa's sunsets"
 author: mariana
 categories: Travelling
 tags: Gran_Canary
