@@ -26,5 +26,5 @@ If you want to talk, hit me up! I'd love to talk with like minded people. I'm ba
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-I have an [Instagram](https://instagram.com/wirelesshippie/) but I'm also available by email: [mariana@psychonautgirl.space](mariana@psychonautgirl.space).
+I have an [Instagram](https://instagram.com/wirelesshippie/) for pics of places. If you're interested in my tech side, I'm on [twitter](https://twitter.com/mari_meir). I'm also available by email: [mariana@psychonautgirl.space](mariana@psychonautgirl.space) for a chat :) and my website has more info about me [psychonautgirl.space](https://psychonautgirl.space). 
 {: refdef}
