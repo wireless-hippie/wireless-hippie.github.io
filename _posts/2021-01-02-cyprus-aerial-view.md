@@ -2,7 +2,7 @@
 layout: post
 title: "Cyprus aerial view"
 author: mariana
-categories: Travelling
+categories: Travelling Tips Beach Mountain
 tags: Cyprus Mediterranean Greek Beach Mountain Forest
 image: assets/images/cyprus/cyprus.JPEG
 description: "An overview over my month in Cyprus"

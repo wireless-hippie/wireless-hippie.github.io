@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "A personal digression on sunsets: an illustrated book with Tenerifa's sunsets"
+title: "A personal digression on sunsets: an illustrated book with Teneriffa's sunsets"
 author: mariana
-categories: Travelling
+categories: Travelling Personal Beach Mountain
 tags: Gran_Canary
 image: assets/images/tenerife/0sunset.jpeg
-description: "A personal digression on sunsets: an illustrated book with Tenerifa's sunsets"
+description: "A personal digression on sunsets: an illustrated book with Teneriffa's sunsets"
 featured: true
 hidden: false
 ---
 
 When I was a teenager and lived in my Dorf in Brazil, I'd watch the sunset every day.
 
-Back then, I was living exclusively in the city for about 4 or 5 years. I don't think I was entirely accostumated to the life in the city by the time and was constantly referred as a "bicho do mato" by my family, which translates to "wild animal" - but in a cuter way... Anyway, I grew up in a farm, I spent most of my early childhood surrounded by nature and was in constant touch with it until I was 9 or 10. I think that shaped me into being a nature's lover and this abrupt cut into a city life with no real access to nature got into me.
+Back then, I was living exclusively in the city for about 4 or 5 years. I don't think I was entirely accostumated to the life in the city by the time and I was constantly referred as a "bicho do mato" by my family, which translates to "wild animal" - but in a cuter way... Anyway, I grew up in a farm, I spent most of my early childhood surrounded by nature and was in constant touch with it until I was 9 or 10. I think that shaped me into being a nature's lover. This abrupt cut into a city life with no real access to nature got into me.
 
-The memories I had and this urge to go back to nature would sting me quite frequently, leaving a sour taste in my mouth for having moved to the cement jungle. I was a self-demoninated anarchoprimitivist and thought most technology was bad and that the human kind did wrong when moved itself away from God's beautiful creations (I was some kind of religious kid back then). I'd hate on the city, the industry I'd see from my balcony, the car noises, the houses, the capitalists who were financing all of this - in summary I'd hate on a lot.
+The memories I had and this urge to go back to nature would sting me quite frequently, leaving a sour taste in my mouth for having moved to the cement jungle. I called myself an anarchoprimitivist and thought most technology was bad and that the human kind did wrong when moved itself away from God's beautiful creations (I was some kind of religious kid back then). I'd hate on the city, the industry I'd see from my balcony, the car noises, the houses, the capitalists who were financing all of this - in summary I'd hate on a lot.
 
 But there was this one thing that thrilled my imagination, made my heart beat faster and took a deep sigh out of my chest every time I past through it by the kitchen's window: a huge forest surrounding an abandoned steel factory nearby. I think one day after rewatching the Lord of the Rings trilogy I finally took the courage to go there. So, I talked my best friend into it, and we waited for the right time in the class breaks to jump over the school's wall "Into an adventure!". The long story short is that we got robbed our sweet mp3 players by a crazy crack head with a knife.
 
