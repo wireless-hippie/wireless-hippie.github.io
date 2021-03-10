@@ -10,7 +10,7 @@ featured: true
 hidden: false
 ---
 
-When I was a teenager and lived in my home town in Brazil, I'd watch the sunset every day. It was one of the few opportunities I have to be in touch with nature.
+When I was a teenager and lived in my home town in Brazil, I'd watch the sunset every day. It was one of the few opportunities I had to be in touch with nature.
 
 I grew up in a farm and until I was 5 I spent 99% of my time surrounded by what felt like endless forests, gardens and fields, filled with more animals and insects and things that I'd never assimilate completely because of its abundance and complexity. I think this full-on immersion in such formative years shaped me into being a deep nature's lover for life.
 
