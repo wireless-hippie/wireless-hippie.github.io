@@ -10,9 +10,11 @@ featured: true
 hidden: false
 ---
 
-When I was a teenager and lived in my Dorf in Brazil, I'd watch the sunset every day.
+When I was a teenager and lived in my Dorf in Brazil, I'd watch the sunset every day. I don't think I was entirely accostumated to the life in the city by the time as I was constantly referred to as a "bicho do mato" by my family and my lack of social skills in school were painfully pungent.
 
-Back then, I was living exclusively in the city for about 4 or 5 years. I don't think I was entirely accostumated to the life in the city by the time and I was constantly referred as a "bicho do mato" by my family, which translates to "wild animal" - but in a cuter way... Anyway, I grew up in a farm, I spent most of my early childhood surrounded by nature and was in constant touch with it until I was 9 or 10. I think that shaped me into being a nature's lover. This abrupt cut into a city life with no real access to nature got into me.
+By this time I was living exclusively in the city for only about 4 or 5 years. I actually grew up in a farm and until I was 5 I spent 99% of my time surrounded by (what at the time) felt like endless forests, gardens and fields, filled with more animals and insects and things that I'd never assimilate completely because of its abundance and complexity. I think this immersion in nature shaped me into being a its deep lover.
+
+When I was 10 and my grandfather sold this farm. This abrupt cut in my life throwing me into a city life with no real access to nature got into me.
 
 The memories I had and this urge to go back to nature would sting me quite frequently, leaving a sour taste in my mouth for having moved to the cement jungle. I called myself an anarchoprimitivist and thought most technology was bad and that the human kind did wrong when moved itself away from God's beautiful creations (I was some kind of religious kid back then). I'd hate on the city, the industry I'd see from my balcony, the car noises, the houses, the capitalists who were financing all of this - in summary I'd hate on a lot.
 
