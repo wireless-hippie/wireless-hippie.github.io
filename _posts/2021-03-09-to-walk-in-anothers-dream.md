@@ -20,7 +20,7 @@ Yesterday I walked into someone else's dream. It was a curious mix between the o
 
 I'm living in this house which is part of a huge complex of a finca in Tenerife. A couple owns this place. When I arrived in the afternoon I was gifted three things: eggs from their own little chicken family that they have around here, one of their apartments in the beach in case the cold weather of their finca was bothering me too much and an unwarned trip into Maria's dream for three hours.
 
-![My Image](/assets/images/tenerife/outside.jpeg)
+![My Image](/assets/images/tenerife/outside_dragon.jpeg)
 
 Maria is an artist and this is me trying to remember and summarize what she said about how her creative process works: "Sometimes I see things, and I know that there's a story to be told about them. And sometimes I don't know which story is it, so I study, I read and I research until I understand this story. Once I did I can transfer my dreams into reality." This is not only the most amazing form of learning, in my opinion, but also an incredible way of creating artifacts of your deeds.
 
