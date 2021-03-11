@@ -6,7 +6,7 @@ categories: Oniric Travelling Personal
 tags: Gran_Canary
 image: assets/images/tenerife/white_door.jpeg
 description: 
-featured: true
+featured: false
 hidden: false
 ---
 

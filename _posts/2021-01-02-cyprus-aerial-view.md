@@ -6,7 +6,7 @@ categories: Travelling Tips Beach Mountain
 tags: Cyprus Mediterranean Greek Beach Mountain Forest
 image: assets/images/cyprus/cyprus.JPEG
 description: "An overview over my month in Cyprus"
-featured: true
+featured: false
 hidden: false
 ---
 
