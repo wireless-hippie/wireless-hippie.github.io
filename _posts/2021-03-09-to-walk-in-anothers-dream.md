@@ -20,11 +20,12 @@ Yesterday I walked into someone else's dream. It was a curious mix between the o
 
 I'm living in this house which is part of a huge complex of a finca in Tenerife. A couple owns this place. When I arrived in the afternoon I was gifted three things: eggs from their own little chicken family that they have around here, one of their apartments in the beach in case the cold weather of their finca was bothering me too much and an unwarned trip into Maria's dream for three hours.
 
-![My Image](/assets/images/tenerife/outside_dragon.jpeg)
+![My Image](/assets/images/tenerife/eggs.jpeg)
 
 Maria is an artist and this is me trying to remember and summarize what she said about how her creative process works: "Sometimes I see things, and I know that there's a story to be told about them. And sometimes I don't know which story is it, so I study, I read and I research until I understand this story. Once I did I can transfer my dreams into reality." This is not only the most amazing form of learning, in my opinion, but also an incredible way of creating artifacts of your deeds.
 
-![My Image](/assets/images/tenerife/first_room.jpeg)
+![My Image](/assets/images/tenerife/outside_dragon.jpeg)
+
 
 I always understood the importance of seeing the results of your actions towards building dreams. The importance of being grateful and caring about your little achievements. I even [tattoed something on myself](https://www.deviantart.com/marimeireles) this weekend to try to keep it more present in my life.
 
@@ -32,9 +33,11 @@ I always understood the importance of seeing the results of your actions towards
 
 But sometimes it's really hard to keep track of the path you went through. Either because these achievements are really small or really spaced or sometimes really hard to see because of their abstract nature. Walking into Maria's dreams I could see beautiful works of art entangled with fascinating stories that were physical tokens of her dreams. I walked amidst, I saw, I heard, I felt, her hopes, her prayers, her interests, her dragons, her kids, her loves.
 
-![My Image](/assets/images/tenerife/second_room.jpeg)
+![My Image](/assets/images/tenerife/first_room.jpeg)
 
 It was an immense inspiration to meet her, and I'm incredibly grateful for her to have shared her dreams with me. I hope I can create tokens as real as hers from my achievements and be able to touch people's souls the way she touched mine, and be able to mix the oniric and the real at least a bit as well as she did.
+
+![My Image](/assets/images/tenerife/second_room.jpeg)
 
 P.S.: I can't condense the experience I had in more details with my broken English. I can't honour it so I won't. It's Maria's dreams and I was just a guest for a couple of hours. I hope you can come and experience it yourself one day too.
 
