@@ -37,7 +37,7 @@ To tell you one of the most brilliant things about this community I'd like to go
 
 I'm a very strict person and to me is always hard to accept help from others, be them friends, family, strangers, anyone! I feel good helping others, but when asking for help I feel like I'm being cumbersome and needy. I know this is not healthy and I've been battling for months to change this tought process and even though I made some progress, it was still very far from a healthy mindset.
 
-However, this burner showed me how rewarding it is to accept help, to open up and be fragile. By accepting help you're not "being cumbersome" you're bringing happiness to people who like to help. You are, perhaps, showing and recognizing your fragilities, talking about them, working on them, which allows not only you to become a better person. You're also also connecting with people that are helping you, because they see these fragilities and they see themselves.
+However, this burner showed me how rewarding it is to accept help, to open up and be fragile. By accepting help you're not "being cumbersome" you're bringing happiness to people who like to help. You are, perhaps, showing and recognizing your fragilities, talking about them, working on them, which allows you to become a better person. You're also also connecting with people that are helping you, because they see these fragilities and they see themselves.
 
 This experience showed me again how we're all just humans, struggling with such similar things and striving for such similar things and being content with such similar things. There was people from all around the world in this festival, but it didn't really matter where you came from, we'd connect the same.
 
