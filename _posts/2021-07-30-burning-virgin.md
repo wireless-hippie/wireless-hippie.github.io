@@ -4,14 +4,13 @@ title: "A fiery virgin"
 author: mariana
 categories: burn
 tags: Germany
-image: assets/images/fte/
+image: assets/images/fte/fte2.jpg
 description:
 featured: false
 hidden: false
 ---
 
 Hello hippies,
-
 I've just lived an incredible experience I'd like to share with you. This is mainly about how I felt about it, it's about love, openness and acceptance. Maybe it inspires you to seek for something similar!
 
 First, some updates about corona: I'm fully vaccinated. Science is a wonderful thing! I'm back in Germany and the numbers here are very manageable, which allows us to live a close to normal life.
@@ -20,7 +19,7 @@ I'm happy. Of course I'm happy. But to start life again, talking to people for h
 
 Well, now to the easy things: I've been to my first burner gathering this past weekend. What is a burner? You might have heard of Burning Man, the huge festival happening in whatever desert in the US, maybe even about the [10 principles]() that rules the event, but the kind I'm talking about is very different. It was a small event, less than 200 people, we camped in Germany countryside for 4 days and it felt like a parallel universe of pure love and kindness where everyone was doing their best to make everyone around them happier.
 
-<img src="/assets/images/fte/fte2.jpg" width="500" style="  display: block;
+<img src="/assets/images/fte/fte2.jpg" style="  display: block;
   margin-left: auto;
   margin-right: auto;" />
 
