@@ -43,8 +43,10 @@ This experience showed me again how we're all just humans, struggling with such 
 
 <img src="/assets/images/fte/fte3.jpg" style="" />
 
-I loved to see people's third heart and to show mine. I'm thankful for all the beautiful souls that shared this event with me and made it so whimsical. Every and each one of them had their part. These hippies made a deep impression on me and now that I know that this is possible I'll try to replicate it more often on the real world. Thank you!
+I loved to see people's third heart and to show mine. I'm thankful for all the beautiful souls that shared this event with me and made it so whimsical. Every and each one of them had their part. These hippies made a deep impression on me and now that I know that this is possible I'll try to replicate it more often on the real world.
 
-Many many leafy and dusty hugs. 🍃🔥
+Thank you!
+
+Many leafy and dusty hugs. 🍃🔥
 
 I hope to see you all again and again and again.
