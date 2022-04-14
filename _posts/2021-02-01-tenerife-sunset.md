@@ -2,8 +2,8 @@
 layout: post
 title: "A personal digression on sunsets: an illustrated book with Teneriffa's sunsets"
 author: mariana
-categories:
-tags: spain
+categories: spain
+tags:
 image: assets/images/tenerife/0sunset.jpeg
 description: "A personal digression on sunsets: an illustrated book with Teneriffa's sunsets"
 featured: false

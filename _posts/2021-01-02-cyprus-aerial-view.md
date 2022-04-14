@@ -2,8 +2,8 @@
 layout: post
 title: "Cyprus aerial view"
 author: mariana
-categories:
-tags: cyprus
+categories: cyprus
+tags:
 image: assets/images/cyprus/cyprus.JPEG
 description: "An overview over my month in Cyprus"
 featured: false

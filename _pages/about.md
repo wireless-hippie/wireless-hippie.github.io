@@ -22,9 +22,9 @@ Maybe it can be useful to some other wireless hippies passing by the same places
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-If you want to talk, hit me up! I'd love to talk with other wireless hippies. I'm based in Berlin.
+If you want to talk, [hit me up](mailto:mariana@psychonautgirl.space)! I'm based in Berlin and will drink almost anything ☠️ with you.
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-If you're interested in my tech side, I'm on [twitter](https://twitter.com/mari_meir). I'm also available by email: [mariana@psychonautgirl.space](mariana@psychonautgirl.space) for a chat :) and my website has more info about me [psychonautgirl.space](https://psychonautgirl.space). 
+If you're interested in my tech side, my personal website is the way to go: [psychonautgirl.space](https://psychonautgirl.space). 
 {: refdef}

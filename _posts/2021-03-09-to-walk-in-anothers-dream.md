@@ -2,8 +2,8 @@
 layout: post
 title: "To walk into other's dreams"
 author: mariana
-categories: dream
-tags: Gran_Canary
+categories: spain
+tags:
 image: assets/images/tenerife/white_door.jpeg
 description: 
 featured: false
