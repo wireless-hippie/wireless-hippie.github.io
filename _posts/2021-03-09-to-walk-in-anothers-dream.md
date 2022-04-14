@@ -2,7 +2,7 @@
 layout: post
 title: "To walk into other's dreams"
 author: mariana
-categories: Oniric Travelling Personal
+categories: dream
 tags: Gran_Canary
 image: assets/images/tenerife/white_door.jpeg
 description: 

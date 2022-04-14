@@ -1,6 +1,6 @@
 ---
 layout: page
-title: It's a me Mari- ana
+title: Mari
 permalink: /about
 comments: true
 ---
@@ -14,7 +14,7 @@ comments: true
 
 
 {:refdef: style="text-align: center;"}
-This is a personal e-diary for my trips as a digital nomad.
+This is a personal e-diary for my travels as a digital nomad.
 {: refdef}
 
 {:refdef: style="text-align: center;"}
@@ -22,7 +22,7 @@ Maybe it can be useful to some other wireless hippies passing by the same places
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-If you want to talk, hit me up! I'd love to talk with like minded people. I'm based in Berlin.
+If you want to talk, hit me up! I'd love to talk with other wireless hippies. I'm based in Berlin.
 {: refdef}
 
 {:refdef: style="text-align: center;"}

@@ -2,8 +2,8 @@
 layout: post
 title: "A fiery virgin"
 author: mariana
-categories: burn
-tags: Germany
+categories: burn dream
+tags: germany
 image: assets/images/fte/fte2.jpg
 description:
 featured: false
