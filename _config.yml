@@ -4,7 +4,7 @@ title: "wireless hippie"
 description: "an online diary for a wireless hippie"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: https://wireless-hippie.github.io
+baseurl:
 google_analytics: 'G-ZFQES0QL2Y'
 # disqus: 'https-wireless-hippie-github-io'
 mailchimp-list: https://github.us7.list-manage.com/subscribe/post?u=67bc9a6384a973beca87db5fe&amp;id=15ec9c40ce
