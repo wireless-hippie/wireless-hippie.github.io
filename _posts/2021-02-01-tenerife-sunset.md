@@ -12,7 +12,7 @@ hidden: false
 
 When I was a teenager and lived in my home town in Brazil, I'd watch the sunset every day. It was one of the few opportunities I had to be in touch with nature.
 
-I grew up in a farm and until I was 5 I spent 99% of my time surrounded by what felt like endless forests, gardens and fields, filled with more animals and insects and things that I'd never assimilate completely because of its abundance and complexity. I think this full-on immersion in such formative years shaped me into being a deep nature's lover for life.
+I grew up in a farm and until I was 5 I spent the majority of my time surrounded by what felt like endless forests, gardens and fields, filled with more animals and insects and things that I'd never assimilate completely because of its abundance and complexity. I think this magnificent immersion in my formative years shaped me into being a deep nature's lover for life.
 
 When I was 10, my grandfather sold this farm. This was a very abrupt cut in my relationship with nature and this sudden change to live a fulltime city life got into me.
 
@@ -28,13 +28,13 @@ I'd spend hours writing endless rants about the meaning of life, physics and phi
 
 Today I went watching the sunset by myself in a nearby beach. Didn't have any notebooks and no one recently robbed my mp3 player from me.
 
-But still, watching sunsets is an interesting exercise to me. It's a moment where even though I have my phone and the whole world's knowledge, and all of my friendships, and lots of my desires, expectations, fears, loves, inside this little black magic box, I don't really feel the urge that consumes me while I have it with me at other more common times of the day to look at it. I sit there, and I look at the clouds and the beautiful colors the sun is throwing in there with the magic of optics and our atmosphere and I just feel gratitude for living in a world filled with beauty.
+But still, watching sunsets is an interesting exercise to me. It's a moment where even though I have my phone and the whole world's knowledge, and all of my friendships, and lots of my desires, expectations, fears, loves, inside this little black magic box, I don't really feel the urge to look at it and let it consume me. I sit still, and I look at the clouds and at the beautiful colors the sun is creating with the help of our atmosphere and optic enchantments and I just feel gratitude for living in a world filled with beauty.
 
 ![My Image](/assets/images/tenerife/2sunset.JPEG)
 
-It's also an interesting exercise because all of the times I have gone there up until now, I'm the only female looking person that's alone and I'm one of the few persons who are alone.
+It's also arises interesting sociological questions. All of the times I have gone there, I'm the only female looking person that's alone and I'm one of the few persons who is alone.
 
-I wonder why aren't more females alone in the beach to watch the sunset? In Brazil my obvious answer would be: because it's dangerous of course - but in Europe, I really wonder. Are women less lonely? They're usually more often surrounded by friends and family? Do they suffer more pressure to be accompanied always? Are women more social beings on average? Or is there actually a degree of concern that their privacy or body or space won't be respected because they're females?
+I wonder why aren't more females alone in the beach to watch the sunset? In Brazil the obvious answer would be: because it's dangerous of course - but in Europe, I really wonder. Are women less lonely? They're usually more often surrounded by friends and family? Do they suffer more pressure to be accompanied always? Are women more social beings on average? Or is there actually a degree of concern that their privacy or body or space won't be respected because they're females - even though we're in Europe? I was personally abused by a guy when eating out by myself in a restaurant just in front this beach.
 
 Anyways, I like to be alone watching the sunset because it makes me feel alone. I don't feel like I spend enough time with myself but being there makes me feel like I can finally breath and think.
 

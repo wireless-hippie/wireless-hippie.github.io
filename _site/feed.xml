@@ -3,10 +3,10 @@
   <channel>
     <title>wireless hippie</title>
     <description>an online diary for a wireless hippie</description>
-    <link>http://localhost:4000https://wireless-hippie.github.io/</link>
-    <atom:link href="http://localhost:4000https://wireless-hippie.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Apr 2022 14:40:42 -0700</pubDate>
-    <lastBuildDate>Thu, 14 Apr 2022 14:40:42 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 21 Apr 2022 15:28:08 -0700</pubDate>
+    <lastBuildDate>Thu, 21 Apr 2022 15:28:08 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -67,11 +67,15 @@ And now I can’t go back to it.&lt;/p&gt;
 &lt;p&gt;Pictures in this blog post were taken by many Martians!&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Mar 2022 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000https://wireless-hippie.github.io/martian/</link>
-        <guid isPermaLink="true">http://localhost:4000https://wireless-hippie.github.io/martian/</guid>
+        <link>http://localhost:4000/martian/</link>
+        <guid isPermaLink="true">http://localhost:4000/martian/</guid>
         
-        <category>US</category>
+        <category>burn</category>
         
+        <category>community</category>
+        
+        
+        <category>us</category>
         
       </item>
     
@@ -119,13 +123,13 @@ And now I can’t go back to it.&lt;/p&gt;
 &lt;p&gt;I hope to see you all again and again and again.&lt;/p&gt;
 </description>
         <pubDate>Fri, 30 Jul 2021 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000https://wireless-hippie.github.io/burning-virgin/</link>
-        <guid isPermaLink="true">http://localhost:4000https://wireless-hippie.github.io/burning-virgin/</guid>
-        
-        <category>Germany</category>
-        
+        <link>http://localhost:4000/burning-virgin/</link>
+        <guid isPermaLink="true">http://localhost:4000/burning-virgin/</guid>
         
         <category>burn</category>
+        
+        
+        <category>germany</category>
         
       </item>
     
@@ -166,17 +170,11 @@ And now I can’t go back to it.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/images/tenerife/outside.jpeg&quot; alt=&quot;My Image&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 Mar 2021 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000https://wireless-hippie.github.io/to-walk-in-anothers-dream/</link>
-        <guid isPermaLink="true">http://localhost:4000https://wireless-hippie.github.io/to-walk-in-anothers-dream/</guid>
-        
-        <category>Gran_Canary</category>
+        <link>http://localhost:4000/to-walk-in-anothers-dream/</link>
+        <guid isPermaLink="true">http://localhost:4000/to-walk-in-anothers-dream/</guid>
         
         
-        <category>Oniric</category>
-        
-        <category>Travelling</category>
-        
-        <category>Personal</category>
+        <category>spain</category>
         
       </item>
     
@@ -184,7 +182,7 @@ And now I can’t go back to it.&lt;/p&gt;
         <title>A personal digression on sunsets: an illustrated book with Teneriffa's sunsets</title>
         <description>&lt;p&gt;When I was a teenager and lived in my home town in Brazil, I’d watch the sunset every day. It was one of the few opportunities I had to be in touch with nature.&lt;/p&gt;
 
-&lt;p&gt;I grew up in a farm and until I was 5 I spent 99% of my time surrounded by what felt like endless forests, gardens and fields, filled with more animals and insects and things that I’d never assimilate completely because of its abundance and complexity. I think this full-on immersion in such formative years shaped me into being a deep nature’s lover for life.&lt;/p&gt;
+&lt;p&gt;I grew up in a farm and until I was 5 I spent the majority of my time surrounded by what felt like endless forests, gardens and fields, filled with more animals and insects and things that I’d never assimilate completely because of its abundance and complexity. I think this magnificent immersion in my formative years shaped me into being a deep nature’s lover for life.&lt;/p&gt;
 
 &lt;p&gt;When I was 10, my grandfather sold this farm. This was a very abrupt cut in my relationship with nature and this sudden change to live a fulltime city life got into me.&lt;/p&gt;
 
@@ -200,13 +198,13 @@ And now I can’t go back to it.&lt;/p&gt;
 
 &lt;p&gt;Today I went watching the sunset by myself in a nearby beach. Didn’t have any notebooks and no one recently robbed my mp3 player from me.&lt;/p&gt;
 
-&lt;p&gt;But still, watching sunsets is an interesting exercise to me. It’s a moment where even though I have my phone and the whole world’s knowledge, and all of my friendships, and lots of my desires, expectations, fears, loves, inside this little black magic box, I don’t really feel the urge that consumes me while I have it with me at other more common times of the day to look at it. I sit there, and I look at the clouds and the beautiful colors the sun is throwing in there with the magic of optics and our atmosphere and I just feel gratitude for living in a world filled with beauty.&lt;/p&gt;
+&lt;p&gt;But still, watching sunsets is an interesting exercise to me. It’s a moment where even though I have my phone and the whole world’s knowledge, and all of my friendships, and lots of my desires, expectations, fears, loves, inside this little black magic box, I don’t really feel the urge to look at it and let it consume me. I sit still, and I look at the clouds and at the beautiful colors the sun is creating with the help of our atmosphere and optic enchantments and I just feel gratitude for living in a world filled with beauty.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/tenerife/2sunset.JPEG&quot; alt=&quot;My Image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;It’s also an interesting exercise because all of the times I have gone there up until now, I’m the only female looking person that’s alone and I’m one of the few persons who are alone.&lt;/p&gt;
+&lt;p&gt;It’s also arises interesting sociological questions. All of the times I have gone there, I’m the only female looking person that’s alone and I’m one of the few persons who is alone.&lt;/p&gt;
 
-&lt;p&gt;I wonder why aren’t more females alone in the beach to watch the sunset? In Brazil my obvious answer would be: because it’s dangerous of course - but in Europe, I really wonder. Are women less lonely? They’re usually more often surrounded by friends and family? Do they suffer more pressure to be accompanied always? Are women more social beings on average? Or is there actually a degree of concern that their privacy or body or space won’t be respected because they’re females?&lt;/p&gt;
+&lt;p&gt;I wonder why aren’t more females alone in the beach to watch the sunset? In Brazil the obvious answer would be: because it’s dangerous of course - but in Europe, I really wonder. Are women less lonely? They’re usually more often surrounded by friends and family? Do they suffer more pressure to be accompanied always? Are women more social beings on average? Or is there actually a degree of concern that their privacy or body or space won’t be respected because they’re females - even though we’re in Europe? I was personally abused by a guy when eating out by myself in a restaurant just in front this beach.&lt;/p&gt;
 
 &lt;p&gt;Anyways, I like to be alone watching the sunset because it makes me feel alone. I don’t feel like I spend enough time with myself but being there makes me feel like I can finally breath and think.&lt;/p&gt;
 
@@ -219,19 +217,11 @@ And now I can’t go back to it.&lt;/p&gt;
 &lt;p&gt;Though, I can’t wait to have the peace of mind and that itchy feeling of curiosity to spend sunsets thinking about the meaning of life, physics and philosophy again.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Feb 2021 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000https://wireless-hippie.github.io/tenerife-sunset/</link>
-        <guid isPermaLink="true">http://localhost:4000https://wireless-hippie.github.io/tenerife-sunset/</guid>
-        
-        <category>Gran_Canary</category>
+        <link>http://localhost:4000/tenerife-sunset/</link>
+        <guid isPermaLink="true">http://localhost:4000/tenerife-sunset/</guid>
         
         
-        <category>Travelling</category>
-        
-        <category>Personal</category>
-        
-        <category>Beach</category>
-        
-        <category>Mountain</category>
+        <category>spain</category>
         
       </item>
     
@@ -326,86 +316,35 @@ Maqam Al-Sultan Restaurant&lt;/a&gt; with great veg options, they served a delic
 &lt;p&gt;Well, this wasn’t what I expected! But it’s a first. I’ll try to be more specific about adventures in the next few posts. Currently I’m in my third week in Tenerife, which means, it’s been a while since I started this trip and didn’t write about it.&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Jan 2021 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000https://wireless-hippie.github.io/cyprus-aerial-view/</link>
-        <guid isPermaLink="true">http://localhost:4000https://wireless-hippie.github.io/cyprus-aerial-view/</guid>
-        
-        <category>Cyprus</category>
-        
-        <category>Mediterranean</category>
-        
-        <category>Greek</category>
-        
-        <category>Beach</category>
-        
-        <category>Mountain</category>
-        
-        <category>Forest</category>
+        <link>http://localhost:4000/cyprus-aerial-view/</link>
+        <guid isPermaLink="true">http://localhost:4000/cyprus-aerial-view/</guid>
         
         
-        <category>Travelling</category>
-        
-        <category>Tips</category>
-        
-        <category>Beach</category>
-        
-        <category>Mountain</category>
+        <category>cyprus</category>
         
       </item>
     
       <item>
-        <title></title>
-        <description>&lt;p&gt;&lt;strong&gt;Day 01&lt;/strong&gt;&lt;/p&gt;
+        <title>A note on corona</title>
+        <description>&lt;p&gt;My particular reason for travelling is trying to preserve my mental health.&lt;/p&gt;
 
-&lt;p&gt;I’ve got in Venus late at night after riding a Tesla for the first time, cool car. Freeman was the one “guiding” it. The introduction to this day was a very pleasent trip on the parks near Palm Springs and my first beautiful sunset on the desert. I’ve met Kiril, who introduced me to the Speakeasy and said hi to Pseudo. Slept on an American trailer for the first time.&lt;/p&gt;
+&lt;p&gt;I lived all my life in a very tropical part of Brazil and I just recently moved in to Berlin in 2019 meaning I had my first winter that year. It was tough.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Day 02&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2020 was very challenging for all of us and I had to fight many of my personal demons in this year. The prospect of spending a winter alone in the middle of a pandemic in Berlin was, honestly, terrifying to me so I decided to take the risk to travel.&lt;/p&gt;
 
-&lt;p&gt;I met Snaeis(?), I immediately click with her, she’s a sweet. I go to Mars for the first time, Flo and Freeman get our trailer set up here. I help Kiril and Snaeis to clean up Mesa so we can build up a cybercafe. I met a bunch of other people who were already living in Mars, Jonathan, Delic, I am you, shit… Too many names.
-Made a plan for the grey water.
-Connected a bit with the guy that’s going to the buddhist monastery.
-Ate a whole plate of fermented food for the first time. Saw the Milky Way for the first time after a long long time. Loved the desert sunset, hated the cold and to have to shit and piss on a bucket.
-Tried to ride unicycles for the first time, I’m okay, I guess. Flo really shone
-We had a tiny new years gathering and I saw the biggest shooting star in my life.
-Felt overwhelmed by social interaction.&lt;/p&gt;
+&lt;p&gt;I’m doing it in the safest way possible. I respect all the enforced corona rules of the place I’m in + the rules I make myself because some places are just not strict enough according to my boundaries. You’ll notice I never talk about events, night life, parties or even other people in my posts and it’s not because I’m hiding it from anyone, it’s because I’m not partaking on any of this. I’m very in to all of these things but I’m giving my best to be safe and make others safe.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Day 03&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It may be not enough, travelling by plane is dangerous as fuck, I can see people around me openly disrespecting the rules, I’m afraid I’ll get sick and fuck myself or fuck others because I took their place in a hospital, I’m still very lonely and the world looks very scary. All of this is juggling in my head, but also the fact that I was spiralling down into deep depression for staying in Berlin.&lt;/p&gt;
 
-&lt;p&gt;Started to think about a fix to the bikes.
-Continued the plan for the grey water.
-Probably met more people… Went to Home Depot and a weird super market with Eli and Lucy to get some food and some suplies to the grey water. Brought it back to find out my plan wouldn’t work so well, but found more people interested in tackling this issue.
-Got the golf car to transport some blankets back to Mars, it was dark and we got lost. Flo and I. Fortunately Alejandro was around Venus and he helped us to get back together.
-Gave a blanket to Morgan.
-Took a cold shower for the first time in a while. I hated it.
-Went to Pirates for the first time for pasta, but got there too late, so there was no food.
-Smoked on a bubbly thing for the first time, always feel like a crack adicted whenver I use something different than a cigarette.
-Got a ride back with Delic, he was high on weed, but we went through the dirt road. Boston is pretty cute.&lt;/p&gt;
+&lt;p&gt;Not sure if it was the right or better choice. I’m just trying to make the best of every day.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Day 04&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hope you enjoy this little diary.&lt;/p&gt;
 
-&lt;p&gt;Went to the christian church for the first time in 20 years. It was awesome, Jack the plumber was the priest, he had to answer the phone a few times and Jack put the guy on speaker, we ended up the meeting when the guy said “No need to hurry cause I’m pulling shit out of my ass for three hours.” While watching this I felt very connected with people’s spirituality and helped me to understand it better. A guy also interrupted the speach by loudly shouting “Fuck” when his dog bit him. This guy owned two little pigs and one dog and he and his girlfriend were going around the country in the their car with them.
-Went to Bombay beach for the first time, crazy place. Looks like Mad Max made by hippies.
-Gave tangerines to Alejandro, cause he asked for us to pick these up yesterday.
-Tried to fix the bikes again.
-Fought with Flo cause he wasn’t mindful about us, but I was also wrong. It’s hard, but I’m learning about me and about how to relate with people.
-Got lost in the desert alone for the first time. I didn’t have a phone and I only had one light that I didn’t know how charged it was.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Day 05&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Learned how to put up ceilings on the metal racks.
-Fixed 0 bikes, but at least found out what’s wrong with both of them and might be able to fix one.
-Flo brought a bike to Mars, one that was working already.
-Tooked my second cold shower, it was pain but not suffering.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Day 06&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Woke up really early cause I wanted to pee, sent pictures to Fabi from my pee view. After that I did yoga in the top of the water building and watched sun rise. It was 2 degrees, but the cold is not suffering anymore, it’s only pain.
-Did some things all around for the build, it wasn’t as productive as yesterday because I changed around a lot, but it was good.
-Connected a bit with Morgan, talked to a new guy that works for google doing animations, he seems pretty cool too.
-Sat down to write this down for the first time.&lt;/p&gt;
+&lt;p&gt;I wish you to stay healthy, strong and happy in this new year.&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Jan 2021 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000https://wireless-hippie.github.io/a-note-on-corona/</link>
-        <guid isPermaLink="true">http://localhost:4000https://wireless-hippie.github.io/a-note-on-corona/</guid>
+        <link>http://localhost:4000/a-note-on-corona/</link>
+        <guid isPermaLink="true">http://localhost:4000/a-note-on-corona/</guid>
         
         
       </item>
