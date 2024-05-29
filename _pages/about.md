@@ -22,9 +22,9 @@ It can hopefully be useful to other wireless hippies passing by the same places 
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-I love to meet people, specially nice people. If you want to hang out, [hit me up](mailto:mariana@psychonautgirl.space)! :) I'm based in Berlin and will drink almost anything ☠️ with you.
+I love to meet people, specially nice people. If you want to hang out, [hit me up](mailto:marianameireles@protonmail.com)! :) I'm based in Berlin and will drink almost anything ☠️ with you.
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-If you're curious about my tech side, I have a tech oriented website: [psychonautgirl.space](https://psychonautgirl.space). 
+If you're curious about my career, check my professional: [marimeireles.com](https://marimeireles.com). 
 {: refdef}

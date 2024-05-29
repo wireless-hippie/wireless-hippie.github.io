@@ -48,3 +48,5 @@ I think poverty has to be dealt with rationally. I don't mean rationally as Le C
 
 And the only way I found to overcome these is through rationality. Is by keeping oneself informed, by forcibly not looking away, and by doing the most one can do to help.
 
+Let me be exact. I thought I knew poverty, but I know Brazilian poverty. In India, I'm deaf, mute and have no memory. Still one can be rational about it. Institutions like [Give Directly](givedirectly.org) will donate 99% of your money to people they've identified need the most. [Give well](https://www.givewell.org/) does a lot of research on how to spend your money the most effective way to save the most amount of lives possible. [R.I.C.E](https://riceinstitute.org/) institutes a program in Uttar Pradesh that saves newborn infants lives.
+
