@@ -46,7 +46,4 @@ India: 45% of its population live under 3.65$ a day and 22% are under the povert
 
 I think poverty has to be dealt with rationally. I don't mean rationally as Le Corbusier's or Lenin's rational modernist state-building machines, nor as Effective Altruism's long-termist ideas of nurturing billionaires and the future human-galactic empire. I mean that emotions are of no help when dealing with the strange, the unspeakable, the untouchable, the ones you don't even think of. It's too overwhelming, too sad, too weird, too complicated.
 
-And the only way I found to overcome these is through rationality. Is by keeping oneself informed, by forcibly not looking away, and by doing the most one can do to help.
-
 Let me be exact. I thought I knew poverty, but I know Brazilian poverty. In India, I'm deaf, mute and have no memory. Still one can be rational about it. Institutions like [Give Directly](givedirectly.org) will donate 90% of your money to people they've identified need the most. [Give well](https://www.givewell.org/) does a lot of research on how to spend your money the most effective way to save the most amount of lives possible. [R.I.C.E](https://riceinstitute.org/) institutes a program in Uttar Pradesh that saves newborn infants lives.
-
