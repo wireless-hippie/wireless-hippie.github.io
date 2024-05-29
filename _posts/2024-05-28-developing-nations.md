@@ -16,7 +16,7 @@ I'm Brazilian. My mother comes from one of the poorest regions of the country an
 
 The only therapist I ever had, many years later said, excited about her own insight, how my early life story sounded like a Dostoevsky novel - I don't think she read Crime and Punishment. Poverty is one of the most devastating conditions that someone can be subjugated with. I'm not denying that vice and violence are terrible but this post is about poverty.
 
-We were poor and we continued to be poor for a long time. If it wasn't for all the help my parents received from my wealthy grandparents and Brazilian's social wealthfare systems I wouldn't be writing this today. I could be dead because I was a sickly child and needed private health care, or because my parents didn't have enough money to pay rent and buy food, or because I would have had to live in dangerous neighborhood in my town where I'd risk getting shot every day, or, or, or...
+We were poor and we continued to be poor for a long time. If it wasn't for all the help my parents received from my wealthy grandparents and Brazilian's social wealthfare systems I wouldn't be writing this today. I could be dead because I was a sickly child and needed private health care, or because my parents didn't have enough money to afford rent and buy food, or because I would have had to live in dangerous neighborhood in my town where I'd risk getting shot every day, or, or, or...
 
 For the past couple of months, I had the privilege to travel. I was accepted in a fellowship that brought me to Bangalore, India. Being a fan of psytrance festivals I was excited to check Goa before heading to my final destination. I was aprehensive about the poverty I would find in India, but nothing prepared me for how widespread it was. Goa is the richest state of the country because all the rich tourists want to go there for the beautiful beaches and the psytrance scene. I couldn't enjoy nature nor connect with people.
 
@@ -32,7 +32,7 @@ I can't speak the language of the poorest people, I could only talk to people in
 
 I know poverty, but I think I know a different kind of poverty.
 
-In Brazil, I know all cultures. Because I came from a humble background but also had access to wealth and education I can be perfectly charming. I understand everything. I have family there, I have friends. I know what to say to the old lady living in the countryside and to my right-wing super-rich tech-bro boss. I know where it's safe to go and what are the areas I should avoid. I know how to trust.
+In Brazil, I know all cultures. Because I came from a humble background but also had access to wealth and education I can be perfectly charming. I understand everything. I have family there, I have friends. I know what to say to the old lady living in the countryside and to the rich strolling in the local cultural center. I know where it's safe to go and what are the areas I should avoid. I know how to trust.
 
 I've never experienced a divide so wide between Western and Eastern cultures. Emotionally, I feel disconnected and tired. There's so much suffering, far beyond being threatened or cat-called. It's so overwhelming. I think I'm a bad person.
 
