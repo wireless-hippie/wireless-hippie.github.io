@@ -14,7 +14,7 @@ I'm Brazilian. My mother comes from one of the poorest regions of the country an
 
 ![My Image](/assets/images/poverty/fazenda.JPG)
 
-The only therapist I ever had, many years later said, excited about her own insight, how my early life story sounded like a Dostoevsky novel. Poverty is one of the most devastating conditions that someone can be subjugated with. I'm not denying that vice and violence are terrible but this post is about poverty.
+The only therapist I ever had, many years later said, excited about her own insight, how my early life story sounded like a Dostoevsky novel - I don't think she read Crime and Punishment. Poverty is one of the most devastating conditions that someone can be subjugated with. I'm not denying that vice and violence are terrible but this post is about poverty.
 
 We were poor and we continued to be poor for a long time. If it wasn't for all the help my parents received from my wealthy grandparents and Brazilian's social wealthfare systems I wouldn't be writing this today. I could be dead because I was a sickly child and needed private health care, or because my parents didn't have enough money to pay rent and buy food, or because I would have had to live in dangerous neighborhood in my town where I'd risk getting shot every day, or, or, or...
 
