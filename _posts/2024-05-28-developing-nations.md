@@ -4,7 +4,7 @@ title: "The feelings that poverty brings me"
 author: mariana
 categories: brazil india
 tags: 
-image: assets/images/poverty/india-beach.JPG
+image: assets/images/poverty/india-beach.png
 description: ""
 featured: false
 hidden: false
