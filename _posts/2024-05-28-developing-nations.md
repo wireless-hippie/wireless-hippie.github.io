@@ -14,7 +14,7 @@ I'm Brazilian. My mother comes from one of the poorest regions of the country an
 
 ![My Image](/assets/images/poverty/fazenda.JPG)
 
-The only therapist I ever had, many years later said, excited about her own insight, how my early life story sounded like a Dostoevsky novel - I don't think she read Crime and Punishment. Poverty is one of the most devastating conditions that someone can be subjugated with. I'm not denying that vice and violence are terrible but this post is about poverty.
+The only therapist I ever had, many years later said, excited about her own insight, how my early life story sounded like a Dostoevsky novel - she was either very sadistic or never read Crime and Punishment. Poverty is one of the most devastating conditions that someone can be subjugated with. I'm not denying that vice and violence are terrible but this post is about poverty.
 
 We were poor and we continued to be poor for a long time. If it wasn't for all the help my parents received from my wealthy grandparents and Brazilian's social wealthfare systems I wouldn't be writing this today. I could be dead because I was a sickly child and needed private health care, or because my parents didn't have enough money to afford rent and buy food, or because I would have had to live in dangerous neighborhood in my town where I'd risk getting shot every day, or, or, or...
 
@@ -40,10 +40,10 @@ But it's alright, because rationally, I know what to think.
 
 India: if the Uttar Pradesh region was a country, it would have the highest rates of death in infancy in the world.
 
-India: the second highest rate of economy inequality in the world.
+India: has the second highest rate of economy inequality in the world.
 
 India: 45% of its population live under 3.65$ a day and 22% are under the poverty line.
 
-I think poverty has to be dealt with rationally. I don't mean rationally as Le Corbusier's or Lenin's rational modernist state-building machines, nor as Effective Altruism's long-termist ideas of nurturing billionaires and the future human-galactic empire. I mean that emotions are of no help when dealing with the strange, the unspeakable, the untouchable, the ones you don't even think of. It's too overwhelming, too sad, too weird, too complicated.
+I think poverty has to be dealt with rationally. I don't mean rationally as Le Corbusier's or Lenin's rational modernist state-building machines, nor as Effective Altruism's long-termist ideas of nurturing billionaires and the future human-galactic empire. I mean that emotions are of no help when dealing with the strange, the unspeakable, the untouchable, the ones you don't even think of. It's too overwhelming, too sad, too scary, too complicated.
 
-Let me be exact. I thought I knew poverty, but I know Brazilian poverty. In India, I'm deaf, mute and have no memory. Still one can be rational about it. Institutions like [Give Directly](givedirectly.org) will donate 90% of your money to people they've identified need the most. [Give well](https://www.givewell.org/) does a lot of research on how to spend your money the most effective way to save the most amount of lives possible. [R.I.C.E](https://riceinstitute.org/) institutes a program in Uttar Pradesh that saves newborn infants lives.
+Let me be exact: I thought I knew poverty, but I know Brazilian poverty. In India, I'm deaf, I'm mute and I have no memory. Still one can be rational about it. India needs help. Institutions like [Give Directly](givedirectly.org) will donate 90% of your money to people they've identified need the most. [Give well](https://www.givewell.org/) does a lot of research on how to spend your money the most effective way to save the most amount of lives possible. [R.I.C.E](https://riceinstitute.org/) institutes a program in Uttar Pradesh that saves newborn infants lives.
