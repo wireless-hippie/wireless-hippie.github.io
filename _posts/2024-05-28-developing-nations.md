@@ -12,7 +12,7 @@ hidden: false
 
 I'm Brazilian. My mother comes from one of the poorest regions of the country and grew up in a family with other 12 siblings under a dollar a day. My father is the son of a wealthy farmer and quit school when he was 14. I was born when my parents were teens.
 
-When I was a small child, I lived in my grandparent's farm. My father worked in the farm as a peon while my mother kept herself occupied with the household. The household was the poorest hovel I have ever entered in my life, it was made of concrete bricks with an open clay tiles for a roof that allowed animals to creep in at night - that was always a preoccupation my mother had.
+When I was a small child, I lived in my grandparent's farm. My father worked in the farm as a peon while my mother kept herself occupied with the household. The household was the poorest hovel I have ever entered in my life, it was made of concrete bricks with clay tiles for a roof that allowed animals to creep in at night - that was always a preoccupation my mother had.
 
 This house stood beside a towering red-dirt ravine. If one were to climb it, they would see a breathtaking field stretching out all the way to the shadows of a dark forest that always haunted me. Near the house, at the top of this ravine, stood a lone tree. From our backyard I'd sometimes watch my young father leaning against this tree. His shadow framed by the sunset-colored sky and the empty field, the air clear and fresh with the coming of evening. I knew I wasn't welcome to join him while he stood there. The emotions I felt were too complex to be understood by a three years old, but they are some of the most beautifully melancholic and old memories I have.
 
