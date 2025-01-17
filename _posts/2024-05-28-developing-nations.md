@@ -48,6 +48,6 @@ India: if the Uttar Pradesh region was a country, it would have the highest rate
 
 India: occupies the second place in the global inequality rank.
 
-India: 45% of the population is living under 3.65$ a day and 22% are under the poverty line.
+India: 45% of its population is living under 3.65$ a day and 22% are under the poverty line.
 
 Poverty doesn't have to be devastating, but it will continue to be for many years for billions of people if you don't do anything about it. Institutions like [Give Directly](givedirectly.org) will donate 90% of donations to people they've identified need the most. [Give well](https://www.givewell.org/) does a lot of research on how to spend donations the most effective way to save the most amount of lives possible. [R.I.C.E](https://riceinstitute.org/) institutes a program in Uttar Pradesh that saves newborn infants lives.
