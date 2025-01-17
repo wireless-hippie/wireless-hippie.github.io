@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The feelings that poverty brings me"
+title: "The feelings that poverty bring me"
 author: mariana
 categories: brazil india
 tags: 
