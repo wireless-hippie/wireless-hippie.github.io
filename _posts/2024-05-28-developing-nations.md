@@ -38,16 +38,16 @@ I know poverty, but I think I know a different kind of poverty.
 
 In Brazil, I know all cultures. Because I came from a humble background but also had access to wealth and education I can be perfectly charming. I understand everything. I have family there, I have friends. I know what to say to the old lady living in the countryside and to the rich strolling in the local cultural center. I know where it's safe to go and what are the areas I should avoid. I know how to trust.
 
+Months after completing my trip, I look back and I see the beauty in India. Just like I saw the beauty in my childhood's farm. I look forward to go back to India now that I understand its reality more deeply. I can't wait to explore the worshiping, the diversity, and take part in the respect for the traditions, to wear their colors and trinkets, to live in community and to share the pride of living in the cradle of Goa, the refuge of Tibettan Buddhism and the biggest democracy in the world.
+
 I thought I knew poverty, but I know a different kind of poverty and that is Brazilian's. In India, I'm deaf, I'm mute and I have no memory. In that sense I feel like I'm just like you, my average reader, are about all kinds of poverty.
 
-Even though my emotions overwhelm me and aren't in accordance to whom I want to be, I can still bootstrap my virtues through rationality.
+Even though my emotions overwhelm me and they weren't in accordance to whom I want to be, I can always bootstrap my virtues through rationality.
 
 India: if the Uttar Pradesh region was a country, it would have the highest rates of death in infancy in the world.
 
 India: occupies the second place in the global inequality rank.
 
 India: 45% of the population is living under 3.65$ a day and 22% are under the poverty line.
-
-Months after completing my trip, I look back and I see the beauty in India. Just like I saw the beauty in my childhood's farm. I look forward to go back to India now that I understand its reality more deeply. I can't wait to explore the worshiping, the diversity, and take part in the respect for the traditions, to wear their colors and trinkets, to live in community and to share the pride of living in the cradle of Goa, the refuge of Tibettan Buddhism and the biggest democracy in the world.
 
 Poverty doesn't have to be devastating, but it will continue to be for many years for billions of people if you don't do anything about it. Institutions like [Give Directly](givedirectly.org) will donate 90% of donations to people they've identified need the most. [Give well](https://www.givewell.org/) does a lot of research on how to spend donations the most effective way to save the most amount of lives possible. [R.I.C.E](https://riceinstitute.org/) institutes a program in Uttar Pradesh that saves newborn infants lives.
