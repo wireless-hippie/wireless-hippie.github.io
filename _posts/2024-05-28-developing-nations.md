@@ -42,7 +42,7 @@ Months after completing my trip, I look back and I see the beauty in India. Just
 
 I thought I knew poverty, but I know a different kind of poverty and that is Brazilian's. In India, I'm deaf, I'm mute and I have no memory. In that sense I feel like I'm just like you, my average reader, are about all kinds of poverty.
 
-Even though my emotions overwhelm me and they weren't in accordance to who I want to be, I can always bootstrap my virtues through rationality.
+Even though my emotions overwhelmed me and they weren't in accordance to who I want to be, I can always bootstrap my virtues through rationality.
 
 India: if the Uttar Pradesh region was a country, it would have the highest rates of death in infancy in the world.
 
